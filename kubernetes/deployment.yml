@@ -17,7 +17,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: umair112/solar-system:3e906e3be059342b1916f020c034344fb267ddca
+      - image: umair112/solar-system:f6dd6d8b7df3c4423cf2ddec64f8b738bd754e97
         imagePullPolicy: Always
         name: solar-system
         ports:
